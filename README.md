@@ -7,25 +7,36 @@ My work focuses on creating practical solutions for real-world security challeng
 
 - Languages & Tools:
 
-Python (Primary)
-Bash/Shell Scripting
-Network Analysis Tools
-
+  -Python (Primary)
+  
+  -Bash/Shell Scripting
+  
+  -Network Analysis Tools
+  
 
 - Cybersecurity Focus Areas:
 
- Firewall Configuration & Management
- Switch Privilege Management
- TCP/IP Protocol Analysis
- Threat Detection Systems
- Network Security Monitoring
+   -Firewall Configuration & Management
+ 
+   -Switch Privilege Management
+ 
+   -TCP/IP Protocol Analysis
+ 
+   -Threat Detection Systems
+ 
+   -Network Security Monitoring
 
  
 - Current Focus
 
-Building automated security tools in Python
-Developing threat detection algorithms
-Exploring network vulnerability assessment
-Contributing to open-source security projects
+  -Building automated security tools in Python
+
+  -
+  
+  -Developing threat detection algorithms
+  
+  -Exploring network vulnerability assessment
+  
+  -Contributing to open-source security projects
 
 
