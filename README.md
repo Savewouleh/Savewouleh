@@ -31,7 +31,7 @@ My work focuses on creating practical solutions for real-world security challeng
 
   -Building automated security tools in Python
 
-  -
+  -Network Infrastructure
   
   -Developing threat detection algorithms
   
