@@ -1,16 +1,29 @@
-## Hi there 👋
+Cybersecurity | Python Enthusiast
+I'm passionate about building secure systems and developing tools that help protect networks and infrastructure. 
+My work focuses on creating practical solutions for real-world security challenges.
 
-<!--
-**Savewouleh/Savewouleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- Languages & Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python (Primary)
+Bash/Shell Scripting
+Network Analysis Tools
+
+
+- Cybersecurity Focus Areas:
+
+ Firewall Configuration & Management
+ Switch Privilege Management
+ TCP/IP Protocol Analysis
+ Threat Detection Systems
+ Network Security Monitoring
+
+ 
+- Current Focus
+
+Building automated security tools in Python
+Developing threat detection algorithms
+Exploring network vulnerability assessment
+Contributing to open-source security projects
+
+
