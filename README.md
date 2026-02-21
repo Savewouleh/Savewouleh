@@ -13,6 +13,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Operating Systems          | Linux environments, CLI, File system navigation, Security focused distributions|
 | Network Fundamentals | TCP/IP, DNS, DHCP, subnetting, ports, protocols, the OSI model |
 | Scripting and Automation | Capable of writing Python scripts to automate repetitive security tasks|
+| Network Configuration | Ability to configure and manage Cisco switches. Basic setup, VLANs and Cisco IOS command line|
 
 ## Tools
 
