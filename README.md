@@ -1,6 +1,6 @@
 # Hello, I'm Jesper
 
-I'm a cybersecurity student passionate about network security and penetration testing and a profound interest in technology and a dedication to solving complex problems.
+I'm a cybersecurity student passionate about network security and penetration testing and I have a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
 
